@@ -1,21 +1,19 @@
-Link to unlisted YouTube video:
+Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
+https://www.overleaf.com/4325946267sdbpzxqzxdkp#b41f33
 
+Link to unlisted YouTube video: https://youtu.be/SetoqkFTNz8?list=PLXRPT3NCXUD0eaULL6PSygdhKSYgD1EEc
 
-Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1PDz8zoNEtHHUCursD3TepUhzAC5kJT42/edit?usp=sharing&ouid=109513388271965819511&rtpof=true&sd=true
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1d6eBGaH_3zQBCes1oPKDkFBKjsotT2LN/edit?usp=drive_link&ouid=109513388271965819511&rtpof=true&sd=true
 
-Paper title:
-Basic Concepts in Population Modeling, Simulation, and Model-Based Drug
-Development—Part 2: Introduction to Pharmacokinetic Modeling Methods
-
-Link to the paper:
-https://ascpt.onlinelibrary.wiley.com/doi/pdfdirect/10.1038/psp.2013.14
-
+Project title:
+Simulation of Spreading of the Covid19 Virus: A Generative Approach
 
 Group Number:
 15
 
-Individual Submitter:
-22266011 Zarin Tasnim Promi
+Group Members:
+22266011	Zarin Tasnim Promi
+23173002	Rabeya Akter
+22273006	Md Rashik Saif
 
-I also correctly uploaded slide.PPT and report.PDF here.
+We also correctly have uploaded slide.PPT here.
